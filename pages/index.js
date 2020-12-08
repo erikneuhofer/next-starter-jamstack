@@ -7,6 +7,8 @@ const Home = () => (
 
     <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
 
+    <h3>Eriks test site</h3>
+
     <style jsx>{`
       :global(html,body) {
         margin: 0;
